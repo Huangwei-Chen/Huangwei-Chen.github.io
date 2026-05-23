@@ -145,6 +145,24 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
 
   <div class="pub-card">
     <div class="pub-card__main">
+      <div class="pub-card__title">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</div>
+      <div class="pub-card__meta">Shuo Jiang<sup>*</sup>, Yuhao Hong<sup>*</sup>, Chunbo Jiang, Weihong Chen, <strong>Huangwei Chen</strong>, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>&dagger;</sup>, Min Tan, Yifei Chen<sup>&dagger;</sup></div>
+    </div>
+    <div class="pub-card__side">
+      <div class="pub-card__tags">
+        <span class="pub-tag">MICCAI 2026</span>
+        <span class="pub-tag pub-tag--highlight">Early Accept</span>
+      </div>
+      <div class="pub-card__links">
+        <a class="pub-link" href="https://arxiv.org/pdf/2605.22619">Paper</a>
+        <span class="pub-link-sep">/</span>
+        <a class="pub-link" href="https://github.com/JSLiam94/GLeVE">Code</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-card__main">
       <div class="pub-card__title">MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation</div>
       <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Yifei Chen<sup>*</sup>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Zhu Zhu<sup>&dagger;</sup>, Feiwei Qin<sup>&dagger;</sup></div>
     </div>
