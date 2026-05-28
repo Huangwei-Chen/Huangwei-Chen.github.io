@@ -122,7 +122,7 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
         <span class="pub-tag pub-tag--highlight">Oral</span>
       </div>
       <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2509.17050">Paper</a>
+        <a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/11464862">Paper</a>
       </div>
     </div>
   </div>
