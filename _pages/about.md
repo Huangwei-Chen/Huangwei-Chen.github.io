@@ -40,6 +40,7 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
 ## 🔥 &nbsp;News {#news}
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
+    <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">BSPC</a> (IF=4.9)!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">KBS</a> (IF=7.6)!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been early accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Featured in <a href="https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html"><strong>People's Daily</strong></a> as the <strong>only undergraduate representative from Zhejiang Province</strong> among the outstanding National Scholarship recipients nationwide!</li>
@@ -74,6 +75,23 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
         <a class="pub-link" href="https://arxiv.org/abs/2604.08927">Paper</a>
         <span class="pub-link-sep">/</span>
         <a class="pub-link" href="https://github.com/HovChen/Aegle">Code</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-card__main">
+      <div class="pub-card__title">MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation</div>
+      <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Yifei Chen<sup>*</sup>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Zhu Zhu<sup>&dagger;</sup>, Feiwei Qin<sup>&dagger;</sup></div>
+    </div>
+    <div class="pub-card__side">
+      <div class="pub-card__tags">
+        <span class="pub-tag">BSPC 2026</span>
+      </div>
+      <div class="pub-card__links">
+        <a class="pub-link" href="https://arxiv.org/abs/2503.12927">Paper</a>
+        <span class="pub-link-sep">/</span>
+        <a class="pub-link" href="https://github.com/HovChen/MMLNB">Code</a>
       </div>
     </div>
   </div>
@@ -157,23 +175,6 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
         <a class="pub-link" href="https://arxiv.org/pdf/2605.22619">Paper</a>
         <span class="pub-link-sep">/</span>
         <a class="pub-link" href="https://github.com/JSLiam94/GLeVE">Code</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-card">
-    <div class="pub-card__main">
-      <div class="pub-card__title">MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation</div>
-      <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Yifei Chen<sup>*</sup>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Zhu Zhu<sup>&dagger;</sup>, Feiwei Qin<sup>&dagger;</sup></div>
-    </div>
-    <div class="pub-card__side">
-      <div class="pub-card__tags">
-        <span class="pub-tag">arXiv 2025</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2503.12927">Paper</a>
-        <span class="pub-link-sep">/</span>
-        <a class="pub-link" href="https://github.com/HovChen/MMLNB">Code</a>
       </div>
     </div>
   </div>
