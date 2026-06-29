@@ -83,7 +83,7 @@ I am an undergraduate student majoring in **Computer Science and Technology** at
   <div class="pub-card">
     <div class="pub-card__main">
       <div class="pub-card__title">Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading</div>
-      <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Junhao Jia<sup>*</sup>, Ruocheng Li, Cunyuan Yang, Wu Li, Xiaotao Pang, Yifei Chen, Haishuai Wang<sup>&dagger;</sup>, Jiajun Bu, Lei Wu<sup>&dagger;</sup></div>
+      <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Junhao Jia<sup>*</sup>, Ruocheng Li, Cunyuan Yang, Wu Li, Xiaotao Pang, Yifei Chen, Haishuai Wang, Jiajun Bu<sup>&dagger;</sup>, Lei Wu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
