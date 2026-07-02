@@ -41,7 +41,7 @@ I am an doctoral student at [Zhejiang University](https://www.zju.edu.cn/), join
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
     <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</li>
-    <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">BSPC</a> (IF=4.9)!</li>
+    <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">BSPC</a> (IF=5.7)!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">KBS</a> (IF=7.6)!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been early accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Featured in <a href="https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html"><strong>People's Daily</strong></a> as the <strong>only undergraduate representative from Zhejiang Province</strong> among the outstanding National Scholarship recipients nationwide!</li>
