@@ -251,6 +251,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 - [![](https://img.shields.io/badge/第一发明人-已授权-brightgreen?style=flat-square)](https://www.cnipa.gov.cn) 一种多阶段生成医学图像问答思维链数据的方法及装置  
 - [![](https://img.shields.io/badge/第二发明人-已公开-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种多模态人工智能虚拟病人问诊教学系统 
 - [![](https://img.shields.io/badge/第二发明人-已公开-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于多智能体协作的泌尿外科预问诊方法和系统
+- [![](https://img.shields.io/badge/第二发明人-已公开-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于多智能体协作的多学科预问诊方法和系统
 
 ## 🏆 &nbsp;Awards {#awards}
 
