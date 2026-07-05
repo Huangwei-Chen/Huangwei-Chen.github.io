@@ -27,6 +27,12 @@ redirect_from:
   .page__content strong {
     color: #cc1f03;
   }
+
+  #academic-service,
+  #campus-service {
+    margin-top: 0.45em;
+    margin-bottom: 0.15em;
+  }
 </style>
 
 ## 👨‍🎓 &nbsp;About Me {#about-me}
@@ -271,12 +277,24 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 
 ## 📝 &nbsp;Services {#services}
 
-- *2024–2025* **Deputy Secretary**, 19th Youth League Committee, HDUCS
+### Academic Service
+
+**Reviewer:** NeurIPS 2026, EMNLP 2026, NLPCC 2026
+
+### Campus Service
+
+*2024–2025* Deputy Secretary, 19th Youth League Committee, HDUCS
 
 ## 📷 &nbsp;Gallery {#gallery}
 <div class="jg-scroll-fade">
   <div class="jg-scroll">
     <div class="jg" id="gallery-grid">
+      <img src="/images/2026毕业生代表.JPG" alt="2026毕业生代表" class="gallery-img" />
+      <img src="/images/2026毕业照.JPG" alt="2026毕业照" class="gallery-img" />
+      <img src="/images/2026黑独山.jpg" alt="2026黑独山" class="gallery-img" />
+      <img src="/images/2026张掖七彩丹霞.jpg" alt="2026张掖七彩丹霞" class="gallery-img" />
+      <img src="/images/2026小柴旦湖.jpg" alt="2026小柴旦湖" class="gallery-img" />
+      <img src="/images/2026察尔汗盐湖.jpg" alt="2026察尔汗盐湖" class="gallery-img" />
       <img src="/images/2025国特合照.JPG" alt="2025国特合照" class="gallery-img" />
       <img src="/images/2025国特答辩.jpeg" alt="2025国特答辩" class="gallery-img" />
       <img src="/images/2025室友讨论.jpg" alt="2025室友讨论" class="gallery-img" />
