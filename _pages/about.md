@@ -290,7 +290,6 @@ Reviewer: NeurIPS 2026, EMNLP 2026, NLPCC 2026
   <div class="jg-scroll">
     <div class="jg" id="gallery-grid">
       <img src="/images/2026毕业生代表.JPG" alt="2026毕业生代表" class="gallery-img" />
-      <img src="/images/2026毕业照.jpg" alt="2026毕业照" class="gallery-img" />
       <img src="/images/2026黑独山.jpg" alt="2026黑独山" class="gallery-img" />
       <img src="/images/2026张掖七彩丹霞.jpg" alt="2026张掖七彩丹霞" class="gallery-img" />
       <img src="/images/2026小柴旦湖.jpg" alt="2026小柴旦湖" class="gallery-img" />
