@@ -46,6 +46,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 ## 🔥 &nbsp;News {#news}
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
+    <li><i>2026.07</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://2026.acmmm.org/">ACMMM 2026</a>!</li>
     <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</li>
     <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">BSPC</a> (IF=5.7)!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">KBS</a> (IF=7.6)!</li>
