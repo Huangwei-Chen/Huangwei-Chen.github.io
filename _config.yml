@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Homepage"
 title_separator          : "-"
-name                     : &name "Huangwei Chen"
-description              : &description "A senior majoring in CS"
+name                     : &name "Huangwei Chen (陈黄未)"
+description              : &description "MedAI, MLLMs, AI Agent"
 url                      : https://huangwei-chen.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Huangwei-Chen/Huangwei-Chen.github.io"
@@ -22,9 +22,9 @@ repository               : "Huangwei-Chen/Huangwei-Chen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huangwei Chen"
+  name             : "Huangwei Chen (陈黄未)"
   pronouns         : # example: "she/her"  
-  bio              : "A senior majoring in CS"
+  bio              : "MedAI, MLLMs, AI Agent"
   location         : " Hangzhou, Zhejiang"
   employer         : # 
   uri              : # URL
