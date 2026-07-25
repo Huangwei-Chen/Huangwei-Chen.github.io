@@ -188,6 +188,21 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 
   <div class="pub-card">
     <div class="pub-card__main">
+      <div class="pub-card__title">RARE: Reliable and Adaptive Reasoning with Grounded Evidence for Medical Vision Language Models</div>
+      <div class="pub-card__meta">Ruocheng Li, Lei Wu, Cunyuan Yang, <strong>Huangwei Chen</strong>, Xiaotao Pang, Qi Xu, Wu Li, Haishuai Wang, Jiajun Bu<sup>&dagger;</sup></div>
+    </div>
+    <div class="pub-card__side">
+      <div class="pub-card__tags">
+        <span class="pub-tag">ACMMM 2026</span>
+      </div>
+      <div class="pub-card__links">
+        <a class="pub-link" href="">Paper</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-card__main">
       <div class="pub-card__title">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</div>
       <div class="pub-card__meta">Shuo Jiang<sup>*</sup>, Yuhao Hong<sup>*</sup>, Chunbo Jiang, Weihong Chen, <strong>Huangwei Chen</strong>, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>&dagger;</sup>, Min Tan, Yifei Chen<sup>&dagger;</sup></div>
     </div>
