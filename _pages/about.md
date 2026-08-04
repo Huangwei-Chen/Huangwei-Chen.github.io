@@ -46,6 +46,8 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 ## 🔥 &nbsp;News {#news}
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
+    <li><i>2026.08</i>: &nbsp;🎉🎉 Our paper for <a href="http://tcci.ccf.org.cn/conference/2026/">NLPCC 2026</a> has been selected for <strong>Oral Presentation</strong>!</li>
+    <li><i>2026.08</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="http://tcci.ccf.org.cn/conference/2026/">NLPCC 2026</a>!</li>
     <li><i>2026.07</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://2026.acmmm.org/">ACMMM 2026</a>!</li>
     <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</li>
     <li><i>2026.06</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control">BSPC</a> (IF=5.7)!</li>
@@ -134,6 +136,22 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
         <a class="pub-link" href="https://doi.org/10.1016/j.knosys.2026.116261">Paper</a>
         <span class="pub-link-sep">/</span>
         <a class="pub-link" href="https://github.com/HovChen/PathLens">Code</a>
+      </div>
+    </div>
+  </div>
+
+  <div class="pub-card">
+    <div class="pub-card__main">
+      <div class="pub-card__title">MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation</div>
+      <div class="pub-card__authors">Yuqi Zhan<sup>*</sup>, Xinyue Wu<sup>*</sup>, Tianyu Lin, Yutong Bao, Xiaoyu Wang, Weihao Cheng, <strong>Huangwei Chen<sup>&dagger;</sup></strong>, Feiwei Qin<sup>&dagger;</sup>, Zhu Zhu<sup>&dagger;</sup></div>
+    </div>
+    <div class="pub-card__side">
+      <div class="pub-card__tags">
+        <span class="pub-tag">NLPCC 2026</span>
+        <span class="pub-tag pub-tag--highlight">Oral</span>
+      </div>
+      <div class="pub-card__links">
+        <a class="pub-link" href="https://arxiv.org/abs/2603.01131">Paper</a>
       </div>
     </div>
   </div>
@@ -230,21 +248,6 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
       </div>
       <div class="pub-card__links">
         <a class="pub-link" href="https://arxiv.org/abs/2602.23752">Paper</a>
-      </div>
-    </div>
-  </div>
-
-  <div class="pub-card">
-    <div class="pub-card__main">
-      <div class="pub-card__title">MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation</div>
-      <div class="pub-card__authors">Yuqi Zhan<sup>*</sup>, Xinyue Wu<sup>*</sup>, Tianyu Lin, Yutong Bao, Xiaoyu Wang, Weihao Cheng, <strong>Huangwei Chen<sup>&dagger;</sup></strong>, Feiwei Qin<sup>&dagger;</sup>, Zhu Zhu<sup>&dagger;</sup></div>
-    </div>
-    <div class="pub-card__side">
-      <div class="pub-card__tags">
-        <span class="pub-tag">arXiv 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2603.01131">Paper</a>
       </div>
     </div>
   </div>
