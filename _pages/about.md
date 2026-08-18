@@ -37,7 +37,7 @@ redirect_from:
 
 ## 👨‍🎓 &nbsp;About Me {#about-me}
 
-I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Dr. Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in **Computer Science and Technology** from **Hangzhou Dianzi University** in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/), [School of Computer Science](https://cs.hdu.edu.cn/), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
+I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in **Computer Science and Technology** from **Hangzhou Dianzi University** in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/), [School of Computer Science](https://cs.hdu.edu.cn/), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
 
 ## 💻 &nbsp;Internships {#internships}
 
@@ -278,6 +278,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 - [![](https://img.shields.io/badge/第二发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于多智能体协作的泌尿外科预问诊方法和系统
 - [![](https://img.shields.io/badge/第三发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于扩散映射测地线原型的细粒度图像识别方法和系统
 - [![](https://img.shields.io/badge/第二发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于多智能体协作的多学科预问诊方法和系统
+- [![](https://img.shields.io/badge/第五发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 基于反事实掩码学习和查询混合专家的医学视觉语言推理方法
 
 ## 🏆 &nbsp;Awards {#awards}
 
