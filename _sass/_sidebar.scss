@@ -26,6 +26,7 @@
 
 
   @include breakpoint($x-large) {
+    @include span(1.75 of 12);
     padding-right: 0;
   }
 

@@ -17,7 +17,7 @@ redirect_from:
   }
 
   .page__inner-wrap {
-    margin-top: -4em;
+    margin-top: 0;
   }
 
   .page__content > :first-child {
@@ -29,19 +29,15 @@ redirect_from:
   }
 
   #academic-service,
-  #campus-service {
+  #campus-service,
+  #awards,
+  #competitions {
     margin-top: 0.45em;
     margin-bottom: 0.15em;
   }
 </style>
 
-## 👨‍🎓 &nbsp;About Me {#about-me}
-
 I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in **Computer Science and Technology** from **Hangzhou Dianzi University** in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/), [School of Computer Science](https://cs.hdu.edu.cn/), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
-
-## 💻 &nbsp;Internships {#internships}
-
-- *2025.06-Present*, [Zhejiang University](https://www.zju.edu.cn/), [InnovativE SoftwAre TechnoloGy DeveLopment CEnter](http://eagle.zju.edu.cn/)
 
 ## 🔥 &nbsp;News {#news}
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
@@ -71,135 +67,105 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 
 ## 🔬 &nbsp;Publications {#publications}
 
+<div class="pub-note"><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Corresponding author.</div>
+
 <div class="pub-list">
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">Beyond the Individual: Virtualizing Multi-Disciplinary Reasoning for Clinical Intake via Collaborative Agents</div>
+      <div class="pub-card__title"><a href="https://aclanthology.org/2026.findings-acl.789/">Beyond the Individual: Virtualizing Multi-Disciplinary Reasoning for Clinical Intake via Collaborative Agents</a></div>
       <div class="pub-card__authors"><strong>Huangwei Chen</strong>, Wu Li, Junhao Jia, Yining Chen, Xiaotao Pang, Yalong Chen, Gonghui Li, Haishuai Wang<sup>&dagger;</sup>, Jiajun Bu<sup>&dagger;</sup>, Lei Wu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">ACL 2026 Findings</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://aclanthology.org/2026.findings-acl.789/">Paper</a>
-        <span class="pub-link-sep">/</span>
-        <a class="pub-link" href="https://github.com/HovChen/Aegle">Code</a>
+        <span class="pub-tag">Findings of the Association for Computational Linguistics: ACL 2026</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading</div>
+      <div class="pub-card__title"><a href="https://arxiv.org/abs/2602.21942">Directed Ordinal Diffusion Regularization for Progression-Aware Diabetic Retinopathy Grading</a></div>
       <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Junhao Jia<sup>*</sup>, Ruocheng Li, Cunyuan Yang, Wu Li, Xiaotao Pang, Yifei Chen, Haishuai Wang, Jiajun Bu<sup>&dagger;</sup>, Lei Wu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">MICCAI 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2602.21942">Paper</a>
-        <span class="pub-link-sep">/</span>
-        <a class="pub-link" href="https://github.com/HovChen/D-ODR">Code</a>
+        <span class="pub-tag">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation</div>
+      <div class="pub-card__title"><a href="https://arxiv.org/abs/2503.12927">MMLNB: Multi-Modal Learning for Neuroblastoma Subtyping Classification Assisted with Textual Description Generation</a></div>
       <div class="pub-card__authors"><strong>Huangwei Chen<sup>*</sup></strong>, Yifei Chen<sup>*</sup>, Zhenyu Yan, Mingyang Ding, Chenlei Li, Zhu Zhu<sup>&dagger;</sup>, Feiwei Qin<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">BSPC 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2503.12927">Paper</a>
-        <span class="pub-link-sep">/</span>
-        <a class="pub-link" href="https://github.com/HovChen/MMLNB">Code</a>
+        <span class="pub-tag">Biomedical Signal Processing and Control</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights</div>
+      <div class="pub-card__title"><a href="https://doi.org/10.1016/j.knosys.2026.116261">PathLens: A Lightweight Multimodal Reasoner for In-Depth Pathology Insights</a></div>
       <div class="pub-card__authors">Zhu Zhu<sup>*</sup>, <strong>Huangwei Chen<sup>*</sup></strong>, Zhenyu Yan<sup>*</sup>, Donghao Zhang, Yueyi Wu, Yuqi Zhan, Weihao Cheng, Manli Zhao, Weizhong Gu, Yifei Chen, Feiwei Qin<sup>&dagger;</sup>, Gang Yu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">KBS 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://doi.org/10.1016/j.knosys.2026.116261">Paper</a>
-        <span class="pub-link-sep">/</span>
-        <a class="pub-link" href="https://github.com/HovChen/PathLens">Code</a>
+        <span class="pub-tag">Knowledge-Based Systems</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation</div>
+      <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.01131">MedCollab: Causal-Driven Multi-Agent Collaboration for Full-Cycle Clinical Diagnosis via IBIS-Structured Argumentation</a></div>
       <div class="pub-card__authors">Yuqi Zhan<sup>*</sup>, Xinyue Wu<sup>*</sup>, Tianyu Lin, Yutong Bao, Xiaoyu Wang, Weihao Cheng, <strong>Huangwei Chen<sup>&dagger;</sup></strong>, Feiwei Qin<sup>&dagger;</sup>, Zhu Zhu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">NLPCC 2026</span>
-        <span class="pub-tag pub-tag--highlight">Oral</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2603.01131">Paper</a>
+        <span class="pub-tag">International Conference on Natural Language Processing and Chinese Computing (NLPCC 2026)</span>
+        <span class="pub-tag pub-tag--highlight">(Oral)</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">SCOUT: Selective Coupling via Optimal Unbalanced Transport for Interpretable Text Classification</div>
+      <div class="pub-card__title"><a href="https://aclanthology.org/2026.acl-long.290/">SCOUT: Selective Coupling via Optimal Unbalanced Transport for Interpretable Text Classification</a></div>
       <div class="pub-card__authors">Junhao Jia, Hanwen Zheng, Yueyi Wu, <strong>Huangwei Chen</strong>, Haishuai Wang, Jiajun Bu<sup>&dagger;</sup>, Lei Wu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">ACL 2026</span>
-        <span class="pub-tag pub-tag--highlight">Oral</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://aclanthology.org/2026.acl-long.290/">Paper</a>
+        <span class="pub-tag">Annual Meeting of the Association for Computational Linguistics (ACL 2026)</span>
+        <span class="pub-tag pub-tag--highlight">(Oral)</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">Geodesic Prototype Matching via Diffusion Maps for Interpretable Fine-Grained Recognition</div>
+      <div class="pub-card__title"><a href="https://ieeexplore.ieee.org/abstract/document/11464862">Geodesic Prototype Matching via Diffusion Maps for Interpretable Fine-Grained Recognition</a></div>
       <div class="pub-card__authors">Junhao Jia, Yunyou Liu, Yifei Sun, <strong>Huangwei Chen</strong>, Feiwei Qin<sup>&dagger;</sup>, Changmiao Wang, Yong Peng</div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">ICASSP 2026</span>
-        <span class="pub-tag pub-tag--highlight">Oral</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://ieeexplore.ieee.org/abstract/document/11464862">Paper</a>
+        <span class="pub-tag">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</span>
+        <span class="pub-tag pub-tag--highlight">(Oral)</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">UroMAS: A multi-agent system for automated patient interview, clinical documentation, and initial management planning in urolithiasis</div>
+      <div class="pub-card__title"><a href="https://doi.org/10.1016/S0302-2838(26)00476-8">UroMAS: A multi-agent system for automated patient interview, clinical documentation, and initial management planning in urolithiasis</a></div>
       <div class="pub-card__meta">Yining Chen, <strong>Huangwei Chen</strong>, Yalong Chen, Junyao Xu, Lifeng Ding, Lei Wu, Jiajun Bu, Gonghui Li<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">EAU 2026</span>
-        <span class="pub-tag pub-tag--highlight">Oral</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://doi.org/10.1016/S0302-2838(26)00476-8">Paper</a>
+        <span class="pub-tag">European Association of Urology Congress (EAU 2026)</span>
+        <span class="pub-tag pub-tag--highlight">(Oral)</span>
       </div>
     </div>
   </div>
@@ -211,76 +177,52 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">ACMMM 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="">Paper</a>
+        <span class="pub-tag">ACM International Conference on Multimedia (ACM MM 2026)</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</div>
+      <div class="pub-card__title"><a href="https://arxiv.org/pdf/2605.22619">GLeVE: Graph-Guided Lesion Grounding with Proposal Verification in 3D CT</a></div>
       <div class="pub-card__meta">Shuo Jiang<sup>*</sup>, Yuhao Hong<sup>*</sup>, Chunbo Jiang, Weihong Chen, <strong>Huangwei Chen</strong>, Shenghao Zhu, Beining Wu, Mingxuan Liu, Zhu Zhu, Feiwei Qin<sup>&dagger;</sup>, Min Tan, Yifei Chen<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">MICCAI 2026</span>
+        <span class="pub-tag">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</span>
         <span class="pub-tag pub-tag--highlight">Early Accept</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/pdf/2605.22619">Paper</a>
-        <span class="pub-link-sep">/</span>
-        <a class="pub-link" href="https://github.com/JSLiam94/GLeVE">Code</a>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">Unsupervised Causal Prototypical Networks for De-biased Interpretable Dermoscopy Diagnosis</div>
+      <div class="pub-card__title"><a href="https://arxiv.org/abs/2602.23752">Unsupervised Causal Prototypical Networks for De-biased Interpretable Dermoscopy Diagnosis</a></div>
       <div class="pub-card__authors">Junhao Jia, Yueyi Wu, <strong>Huangwei Chen</strong>, Haodong Jing, Haishuai Wang<sup>&dagger;</sup>, Jiajun Bu, Lei Wu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">arXiv 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2602.23752">Paper</a>
+        <span class="pub-tag">arXiv preprint (2026)</span>
       </div>
     </div>
   </div>
 
   <div class="pub-card">
     <div class="pub-card__main">
-      <div class="pub-card__title">Sci-Mind: Cognitively-Inspired Adversarial Debate for Autonomous Mathematical Modeling</div>
+      <div class="pub-card__title"><a href="https://arxiv.org/abs/2603.27584">Sci-Mind: Cognitively-Inspired Adversarial Debate for Autonomous Mathematical Modeling</a></div>
       <div class="pub-card__authors">Junhao Jia, <strong>Huangwei Chen</strong>, Ruiying Sun, Yanhui Song, Haishuai Wang<sup>&dagger;</sup>, Jiajun Bu, Lei Wu<sup>&dagger;</sup></div>
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">arXiv 2026</span>
-      </div>
-      <div class="pub-card__links">
-        <a class="pub-link" href="https://arxiv.org/abs/2603.27584">Paper</a>
+        <span class="pub-tag">arXiv preprint (2026)</span>
       </div>
     </div>
   </div>
-
-  <div class="pub-note"><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Corresponding author.</div>
 </div>
 
-## 🧾 &nbsp;Patents {#patents}
+## 🏆 &nbsp;Honors {#honors}
 
-- [![](https://img.shields.io/badge/第一发明人-已授权-brightgreen?style=flat-square)](https://www.cnipa.gov.cn) 基于自监督学习的三维医学影像异常检测方法及系统
-- [![](https://img.shields.io/badge/第一发明人-已授权-brightgreen?style=flat-square)](https://www.cnipa.gov.cn) 一种多阶段生成医学图像问答思维链数据的方法及装置  
-- [![](https://img.shields.io/badge/第二发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种多模态人工智能虚拟病人问诊教学系统 
-- [![](https://img.shields.io/badge/第二发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于多智能体协作的泌尿外科预问诊方法和系统
-- [![](https://img.shields.io/badge/第三发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于扩散映射测地线原型的细粒度图像识别方法和系统
-- [![](https://img.shields.io/badge/第二发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 一种基于多智能体协作的多学科预问诊方法和系统
-- [![](https://img.shields.io/badge/第五发明人-实审中-blue?style=flat-square)](https://www.cnipa.gov.cn) 基于反事实掩码学习和查询混合专家的医学视觉语言推理方法
-
-## 🏆 &nbsp;Awards {#awards}
+### Awards
 
 - *2023.12* Provincial Government Scholarship
 - *2024.12* National Scholarship
@@ -288,7 +230,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 - *2025.12* National Scholarship
 - *2026.06* Outstanding Graduate of Zhejiang Province
 
-## 🥇 &nbsp;Competitions {#competitions}
+### Competitions
 
 - *2024.05* **Meritorious Winner**, Interdisciplinary Contest in Modeling (ICM)
 - *2024.10* **Silver Medal**, China International College Students' Innovation Competition
@@ -316,7 +258,7 @@ Reviewer: NeurIPS 2026, EMNLP 2026, NLPCC 2026
       <img src="/images/2026小柴旦湖.jpg" alt="2026小柴旦湖" class="gallery-img" />
       <img src="/images/2026察尔汗盐湖.jpg" alt="2026察尔汗盐湖" class="gallery-img" />
       <img src="/images/2025国特合照.JPG" alt="2025国特合照" class="gallery-img" />
-      <img src="/images/2025国特答辩.jpeg" alt="2025国特答辩" class="gallery-img" />
+      <img src="/images/2025国特答辩.jpg" alt="2025国特答辩" class="gallery-img" />
       <img src="/images/2025室友讨论.jpg" alt="2025室友讨论" class="gallery-img" />
       <img src="/images/2025守正之星（竖屏）.jpg" alt="2025守正之星（竖屏）" class="gallery-img" />
       <img src="/images/2025长白山.jpg" alt="2025长白山" class="gallery-img" />

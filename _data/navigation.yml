@@ -6,21 +6,15 @@
 
 main:
   - title: "About Me"
-    url: /#about-me
-  - title: "Internships"
-    url: /#internships
+    url: /
   - title: "News"
     url: /#news
   - title: "Reports"
     url: /#reports
   - title: "Publications"
     url: /#publications
-  - title: "Patents"
-    url: /#patents
-  - title: "Awards"
-    url: /#awards
-  - title: "Competitions"
-    url: /#competitions
+  - title: "Honors"
+    url: /#honors
   - title: "Services"
     url: /#services
   - title: "Gallery"

@@ -5,6 +5,7 @@
 #main {
   @include container;
   @include clearfix;
+  max-width: $content-max-width;
   margin-top: 2em;
   padding-left: 1em;
   padding-right: 1em;
@@ -12,15 +13,13 @@
   animation-delay: 0.35s;
 
   @include breakpoint($x-large) {
-    max-width: $x-large;
+    max-width: $content-max-width;
   }
 }
 
 .page {
   @include breakpoint($large) {
-    @include span(10 of 12 last);
-    @include prefix(0.5 of 12);
-    @include suffix(2 of 12);
+    @include full();
   }
 
   .page__inner-wrap {
@@ -31,6 +30,226 @@
     .page__share {
       @include full();
     }
+  }
+}
+
+/* Homepage author profile, promoted from the former sidebar. */
+.profile-header {
+  width: 100%;
+  margin-bottom: 1em;
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid $border-color;
+
+  > div {
+    display: flex;
+    align-items: center;
+    gap: 1.5em;
+  }
+
+  .author__avatar {
+    display: block;
+    flex: 0 0 132px;
+    width: 132px;
+
+    img,
+    img.author__avatar {
+      display: block;
+      width: 132px;
+      min-width: 0;
+      max-width: none;
+      padding: 0;
+      border: 1px solid $border-color;
+      border-radius: 50%;
+    }
+  }
+
+  .author__content {
+    display: block;
+    flex: 1 1 auto;
+    min-width: 0;
+    padding: 0;
+  }
+
+  .author__name {
+    margin: 0 0 0.35em;
+    font-family: $sans-serif;
+    font-size: $type-size-3;
+    line-height: 1.2;
+  }
+
+  .author__bio {
+    margin: 0;
+    color: mix(#fff, $gray, 15%);
+    font-style: italic;
+  }
+
+  .author__location {
+    margin: 0.65em 0 0;
+    color: mix(#fff, $gray, 20%);
+    font-size: $type-size-6;
+
+    span {
+      margin-right: 0.35em;
+    }
+  }
+
+  .author__urls-wrapper {
+    display: block;
+    flex: 0 0 260px;
+    width: 260px;
+    margin: 0;
+    cursor: default;
+
+    button {
+      display: none;
+    }
+  }
+
+  .author__urls {
+    display: grid;
+    position: static;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.55em;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: transparent;
+    box-shadow: none;
+    list-style: none;
+
+    &::before,
+    &::after {
+      display: none;
+    }
+
+    li {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 2.2em;
+      padding: 0.35em 0.7em;
+      border: 1px solid mix(#fff, $border-color, 35%);
+      border-radius: $border-radius;
+      background: mix(#fff, $lighter-gray, 65%);
+      font-family: $sans-serif;
+      font-size: $type-size-6;
+      line-height: 1.2;
+      white-space: nowrap;
+
+      i {
+        width: 1.25em;
+        margin-right: 0.35em;
+        color: mix(#fff, $gray, 5%);
+        text-align: center;
+      }
+    }
+
+    a {
+      display: flex;
+      align-items: center;
+      margin: 0;
+      padding: 0;
+      color: inherit;
+      font-size: inherit;
+      text-decoration: none;
+
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+
+  @include breakpoint(max-width $medium) {
+    > div {
+      flex-wrap: wrap;
+      align-items: flex-start;
+      gap: 1em;
+    }
+
+    .author__avatar {
+      flex-basis: 96px;
+      width: 96px;
+
+      img,
+      img.author__avatar {
+        width: 96px;
+      }
+    }
+
+    .author__urls-wrapper {
+      flex-basis: 100%;
+      width: 100%;
+    }
+
+    .author__urls {
+      grid-template-columns: repeat(2, minmax(0, 12em));
+      justify-content: start;
+    }
+  }
+
+  @include breakpoint(max-width $small) {
+    > div {
+      flex-direction: column;
+      align-items: center;
+      text-align: center;
+    }
+
+    .author__content,
+    .author__urls-wrapper {
+      width: 100%;
+    }
+
+    .author__urls {
+      justify-content: center;
+      grid-template-columns: minmax(0, 15em);
+
+      li {
+        justify-content: flex-start;
+      }
+    }
+  }
+}
+
+.back-to-top {
+  position: fixed;
+  right: 1.5rem;
+  bottom: 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.6rem;
+  height: 2.6rem;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: 50%;
+  background: rgba(#fff, 0.94);
+  color: mix(#000, $gray, 15%);
+  font-size: 1.2rem;
+  line-height: 1;
+  box-shadow: 0 3px 12px rgba(#000, 0.12);
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(0.5rem);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s;
+  cursor: pointer;
+  z-index: 19;
+
+  &.is-visible {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  &:hover,
+  &:focus {
+    color: $link-color-hover;
+    border-color: mix(#fff, $link-color-hover, 55%);
+    outline: none;
+  }
+
+  @include breakpoint(max-width $small) {
+    right: 1rem;
+    bottom: 1rem;
   }
 }
 
@@ -134,7 +353,7 @@
       padding-right: 1em;
 
       @include breakpoint($x-large) {
-        max-width: $x-large;
+        max-width: $site-max-width;
       }
     }
 

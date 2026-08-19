@@ -3,12 +3,11 @@ const container = document.getElementById('gallery-grid');
 if (!container) return;
 
 const config = {
-    targetRowHeight: 220,
-    minRowHeight: 180,
-    maxRowHeight: 280,
-    gap: 10,
-    justifyLastRow: false,
-    minItemsPerRow: 2
+    targetRowHeight: 165,
+    minRowHeight: 130,
+    maxRowHeight: 210,
+    gap: 8,
+    justifyLastRow: false
 };
 
 const imgs = Array.from(container.querySelectorAll('img'));
@@ -26,6 +25,7 @@ function layout() {
     container.classList.add('jg');
 
     const cw = container.clientWidth;
+    const minItemsPerRow = cw >= 760 ? 4 : (cw >= 520 ? 3 : 2);
     const rows = [];
     let row = [];
     let arSum = 0;
@@ -45,7 +45,7 @@ function layout() {
     const filled = Math.abs((arSum * idealH + gaps) - cw) < config.targetRowHeight * 0.35;
     const tooWide = (arSum * config.minRowHeight + gaps) > cw;
 
-    if ((filled || tooWide) && row.length >= config.minItemsPerRow) {
+    if ((filled || tooWide) && row.length >= minItemsPerRow) {
         rows.push({ items: row.slice(), height: idealH });
         row = [];
         arSum = 0;
@@ -56,7 +56,7 @@ function layout() {
     const gaps = (row.length - 1) * config.gap;
     const sumAr = row.reduce((s, it) => s + it.ar, 0);
     let h = config.targetRowHeight;
-    if (config.justifyLastRow && row.length >= config.minItemsPerRow) {
+    if (config.justifyLastRow && row.length >= minItemsPerRow) {
         h = Math.max(config.minRowHeight,
             Math.min(config.maxRowHeight, (cw - gaps) / sumAr));
     }

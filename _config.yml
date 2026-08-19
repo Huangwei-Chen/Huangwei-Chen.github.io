@@ -25,7 +25,7 @@ author:
   name             : "Huangwei Chen (陈黄未)"
   pronouns         : # example: "she/her"  
   bio              : "MedAI, MLLMs, AI Agent"
-  location         : " Hangzhou, Zhejiang"
+  location         : "Hangzhou, Zhejiang"
   employer         : # 
   uri              : # URL
   email            : "huangwei_chen@zju.edu.cn" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=dtzvGsEAAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : # URL
+  orcid            : "https://orcid.org/0009-0003-6147-7152"
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
