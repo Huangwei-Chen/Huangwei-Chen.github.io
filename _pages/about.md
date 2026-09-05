@@ -142,6 +142,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
       <div class="pub-card__tags">
         <span class="pub-tag">Annual Meeting of the Association for Computational Linguistics (ACL 2026)</span>
         <span class="pub-tag pub-tag--highlight">(Oral)</span>
+        <span class="pub-tag pub-tag--highlight">(Award Candidate)</span>
       </div>
     </div>
   </div>
@@ -192,7 +193,8 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     <div class="pub-card__side">
       <div class="pub-card__tags">
         <span class="pub-tag">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</span>
-        <span class="pub-tag pub-tag--highlight">Early Accept</span>
+        <span class="pub-tag pub-tag--highlight">(Early Accept)</span>
+        <span class="pub-tag pub-tag--highlight">(MICCAI Best Paper and Young Scientist Award Candidate)</span>
       </div>
     </div>
   </div>
