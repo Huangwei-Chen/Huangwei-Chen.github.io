@@ -37,11 +37,12 @@ redirect_from:
   }
 </style>
 
-I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in **Computer Science and Technology** from **Hangzhou Dianzi University** in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/), [School of Computer Science](https://cs.hdu.edu.cn/), [Hangzhou Dianzi University](https://www.hdu.edu.cn/main.htm). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
+I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in **Computer Science and Technology** from **Hangzhou Dianzi University** in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
 
 ## 🔥 &nbsp;News {#news}
 <div style="max-height: 300px; overflow: auto; font-size: 15px;">
 	<ul>
+    <li><i>2026.09</i>: &nbsp;🎉🎉 Our paper for <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a> has been selected as a candidate for the <strong>MICCAI Best Paper and Young Scientist Award</strong>!</li>
     <li><i>2026.08</i>: &nbsp;🎉🎉 Our paper for <a href="http://tcci.ccf.org.cn/conference/2026/">NLPCC 2026</a> has been selected for <strong>Oral Presentation</strong>!</li>
     <li><i>2026.08</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="http://tcci.ccf.org.cn/conference/2026/">NLPCC 2026</a>!</li>
     <li><i>2026.07</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://2026.acmmm.org/">ACMMM 2026</a>!</li>
@@ -50,6 +51,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been accepted by <a href="https://www.sciencedirect.com/journal/knowledge-based-systems">KBS</a> (IF=7.6)!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Our paper has been early accepted by <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a>!</li>
     <li><i>2026.05</i>: &nbsp;🎉🎉 Featured in <a href="https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html"><strong>People's Daily</strong></a> as the <strong>only undergraduate representative from Zhejiang Province</strong> among the outstanding National Scholarship recipients nationwide!</li>
+    <li><i>2026.04</i>: &nbsp;🎉🎉 Our paper for <a href="https://2026.aclweb.org/">ACL 2026</a> has been selected as an <strong>Award Candidate</strong>!</li>
     <li><i>2026.04</i>: &nbsp;🎉🎉 Our paper for <a href="https://2026.aclweb.org/">ACL 2026</a> has been selected for <strong>Oral Presentation</strong>!</li>
     <li><i>2026.04</i>: &nbsp;🎉🎉 Our 2 papers have been accepted by <a href="https://2026.aclweb.org/">ACL 2026</a>!</li>
 		<li><i>2026.03</i>: &nbsp;🎉🎉 Our paper for <a href="https://2026.ieeeicassp.org/">ICASSP 2026</a> has been selected for <strong>Oral Presentation</strong>!</li>
