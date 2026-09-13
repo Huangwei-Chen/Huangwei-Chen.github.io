@@ -257,14 +257,13 @@ Reviewer: NeurIPS 2026, EMNLP 2026, NLPCC 2026
   <div class="jg-scroll">
     <div class="jg" id="gallery-grid">
       <img src="/images/2026毕业生代表.JPG" alt="2026毕业生代表" class="gallery-img" />
-      <img src="/images/2026黑独山.jpg" alt="2026黑独山" class="gallery-img" />
-      <img src="/images/2026张掖七彩丹霞.jpg" alt="2026张掖七彩丹霞" class="gallery-img" />
+      <!-- <img src="/images/2026黑独山.jpg" alt="2026黑独山" class="gallery-img" /> -->
       <img src="/images/2026小柴旦湖.jpg" alt="2026小柴旦湖" class="gallery-img" />
       <img src="/images/2026察尔汗盐湖.jpg" alt="2026察尔汗盐湖" class="gallery-img" />
       <img src="/images/2025国特合照.JPG" alt="2025国特合照" class="gallery-img" />
       <img src="/images/2025国特答辩.jpg" alt="2025国特答辩" class="gallery-img" />
-      <img src="/images/2025室友讨论.jpg" alt="2025室友讨论" class="gallery-img" />
       <img src="/images/2025守正之星（竖屏）.jpg" alt="2025守正之星（竖屏）" class="gallery-img" />
+      <img src="/images/2025室友讨论.jpg" alt="2025室友讨论" class="gallery-img" />
       <img src="/images/2025长白山.jpg" alt="2025长白山" class="gallery-img" />
       <img src="/images/2025百大领奖.jpg" alt="2025百大领奖" class="gallery-img" />
       <img src="/images/2026浙江教科.jpg" alt="2026浙江教科" class="gallery-img" />
