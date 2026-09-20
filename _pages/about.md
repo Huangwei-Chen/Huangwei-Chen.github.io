@@ -246,7 +246,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 
 ### Academic Service
 
-Reviewer: NeurIPS 2026, EMNLP 2026, NLPCC 2026
+Reviewer: NeurIPS 2026, EMNLP 2026, NLPCC 2026, ICLR 2027
 
 ### Campus Service
 
