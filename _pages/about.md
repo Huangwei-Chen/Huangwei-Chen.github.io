@@ -37,10 +37,10 @@ redirect_from:
   }
 </style>
 
-I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in **Computer Science and Technology** from **Hangzhou Dianzi University** in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
+I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in Computer Science and Technology from [Hangzhou Dianzi University](https://www.hdu.edu.cn/) in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
 
-## 🔥 &nbsp;News {#news}
-<div style="max-height: 300px; overflow: auto; font-size: 15px;">
+## News {#news}
+<div class="news-feed">
 	<ul>
     <li><i>2026.09</i>: &nbsp;🎉🎉 Our paper for <a href="https://conferences.miccai.org/2026/en/">MICCAI 2026</a> has been selected as a candidate for the <strong>MICCAI Best Paper and Young Scientist Award</strong>!</li>
     <li><i>2026.08</i>: &nbsp;🎉🎉 Our paper for <a href="http://tcci.ccf.org.cn/conference/2026/">NLPCC 2026</a> has been selected for <strong>Oral Presentation</strong>!</li>
@@ -61,13 +61,14 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 	</ul>
 </div>
 <!-- <div style="margin-top: 5px; font-size: small; margin-bottom: 0px;">⬆ Scrollable</div> -->
-## 📰 &nbsp;Reports {#reports}
+## Reports {#reports}
 
-- [![报道-人民日报](https://img.shields.io/badge/%E6%8A%A5%E9%81%93-%E4%BA%BA%E6%B0%91%E6%97%A5%E6%8A%A5-E7250F?style=flat-square)](https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html) [2024—2025学年度本专科生国家奖学金获奖学生代表名录](https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html)
-- [![报道-澎湃新闻](https://img.shields.io/badge/%E6%8A%A5%E9%81%93-%E6%BE%8E%E6%B9%83%E6%96%B0%E9%97%BB-blue?style=flat-square)](https://m.thepaper.cn/newsDetail_forward_30536383) [在杭电，看见奋斗足迹 ｜ 陈黄未：奔跑在“用AI解决领域痛点”的道路上](https://m.thepaper.cn/newsDetail_forward_30536383)
-- [![报道-央广网](https://img.shields.io/badge/%E6%8A%A5%E9%81%93-%E5%A4%AE%E5%B9%BF%E7%BD%91-red?style=flat-square)](https://zj.cnr.cn/gedilianbo/ls/20240806/t20240806_526836807.shtml) [中外学子对话黄帝文化，探寻乡村蝶变密码](https://zj.cnr.cn/gedilianbo/ls/20240806/t20240806_526836807.shtml)
+- <a class="report-badge" href="https://mp.weixin.qq.com/s/OpfBNn7wcFB7_UpAkmzEGA"><span class="report-badge__label">报道</span><span class="report-badge__name">浙里思政</span></a> [以算法为笔，绘就有温度的青春答卷](https://mp.weixin.qq.com/s/OpfBNn7wcFB7_UpAkmzEGA)
+- <a class="report-badge" href="https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html"><span class="report-badge__label">报道</span><span class="report-badge__name">人民日报</span></a> [2024—2025学年度本专科生国家奖学金获奖学生代表名录](https://paper.people.com.cn/rmrb/pc/layout/202605/04/node_06.html)
+- <a class="report-badge" href="https://m.thepaper.cn/newsDetail_forward_30536383"><span class="report-badge__label">报道</span><span class="report-badge__name">澎湃新闻</span></a> [在杭电，看见奋斗足迹 ｜ 陈黄未：奔跑在“用AI解决领域痛点”的道路上](https://m.thepaper.cn/newsDetail_forward_30536383)
+- <a class="report-badge" href="https://zj.cnr.cn/gedilianbo/ls/20240806/t20240806_526836807.shtml"><span class="report-badge__label">报道</span><span class="report-badge__name report-badge__name--short">央广网</span></a> [中外学子对话黄帝文化，探寻乡村蝶变密码](https://zj.cnr.cn/gedilianbo/ls/20240806/t20240806_526836807.shtml)
 
-## 🔬 &nbsp;Publications {#publications}
+## Publications {#publications}
 
 <div class="pub-note"><sup>*</sup> Equal contribution. <sup>&dagger;</sup> Corresponding author.</div>
 
@@ -224,7 +225,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
   </div>
 </div>
 
-## 🏆 &nbsp;Honors {#honors}
+## Honors {#honors}
 
 ### Awards
 
@@ -242,7 +243,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
 - *2025.07* **Silver Medal**, Zhejiang College Students' "Challenge Cup" Extracurricular Academic Science and Technology Works Competition (AI+ Track)
 - *2025.10* **Silver Medal**, China International College Students' Innovation Competition
 
-## 📝 &nbsp;Services {#services}
+## Services {#services}
 
 ### Academic Service
 
@@ -252,7 +253,7 @@ Reviewer: NeurIPS 2026, EMNLP 2026, NLPCC 2026, ICLR 2027
 
 *2024–2025* Deputy Secretary, 19th Youth League Committee, HDUCS
 
-## 📷 &nbsp;Gallery {#gallery}
+## Gallery {#gallery}
 <div class="jg-scroll-fade">
   <div class="jg-scroll">
     <div class="jg" id="gallery-grid">
