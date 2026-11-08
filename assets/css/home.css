@@ -49,7 +49,15 @@ body {
 .news-feed { max-height: 300px; overflow: auto; font-size: 15px; border-left: 2px solid var(--home-line); padding-left: 0.5rem; }
 .news-feed ul { padding-left: 1.3rem; }
 .news-feed li { padding: 0.25rem 0; }
-.news-feed i { font-family: Consolas, monospace; font-style: normal; font-size: 0.88em; color: var(--home-muted); }
+.news-feed i,
+#awards + ul > li > em:first-child,
+#competitions + ul > li > em:first-child {
+  font-family: Consolas, monospace;
+  font-style: normal;
+  font-size: 13.2px;
+  color: #515b62;
+  font-weight: 600;
+}
 .pub-list { padding: 0 0.9rem; border: 1px solid var(--home-line); border-top: 2px solid var(--home-ink); background: #fafbfc; }
 .pub-card { padding: 0.9rem 0; border-bottom-color: var(--home-line); }
 .pub-card:last-child { padding-bottom: 0.9rem; }
@@ -96,7 +104,6 @@ body { background: #fcfcfb; }
 .news-feed ul { margin: 0; padding: 0; list-style: none; }
 .news-feed li { margin: 0; padding: 0.6rem 0; border-bottom: 1px solid #e9eae6; }
 .news-feed li:first-child { padding-top: 0.1rem; }
-.news-feed i { color: #515b62; font-weight: 600; }
 #reports + ul { list-style: none; padding: 0; margin: 0; }
 #reports + ul li {
   display: flex;
