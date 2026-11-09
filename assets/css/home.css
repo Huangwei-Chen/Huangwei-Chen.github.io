@@ -136,7 +136,21 @@ body { background: #fcfcfb; }
 .pub-card:hover { background-color: #f8f8f5; }
 .pub-card__title { font-size: 1em; letter-spacing: -0.015em; }
 .pub-card__authors { line-height: 1.6; }
-.pub-tag { color: #525f66; font-weight: 500; }
+.pub-card__tags {
+  gap: 0.35rem 1rem;
+  /* Separators sit in the gap; clipping hides them at each new row's start. */
+  overflow: hidden;
+}
+.pub-tag { position: relative; min-width: 0; max-width: 100%; color: #525f66; font-weight: 500; }
+.pub-tag--highlight { color: var(--home-accent); font-weight: 700; }
+.pub-tag--highlight::before {
+  content: "|";
+  position: absolute;
+  left: -0.65rem;
+  top: 0;
+  color: #929a9e;
+  font-weight: 400;
+}
 .page__content h3 { margin-top: 0.85rem; }
 .jg-item, .jg-item img { border-radius: 2px; }
 .back-to-top { border-radius: 2px; background: var(--home-ink); }

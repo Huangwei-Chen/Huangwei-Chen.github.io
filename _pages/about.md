@@ -37,7 +37,7 @@ redirect_from:
   }
 </style>
 
-I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in Computer Science and Technology from [Hangzhou Dianzi University](https://www.hdu.edu.cn/) in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://3d-v.github.io/3DV-Lab-Website/). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
+I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in Computer Science and Technology from [Hangzhou Dianzi University](https://www.hdu.edu.cn/) in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://github.com/hdu-3dv/hdu-3dv.github.io). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
 
 ## News {#news}
 <div class="news-feed">
@@ -80,7 +80,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">Findings of the Association for Computational Linguistics: ACL 2026</span>
+        <span class="pub-tag">Findings of ACL 2026</span>
       </div>
     </div>
   </div>
@@ -92,7 +92,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</span>
+        <span class="pub-tag">MICCAI 2026</span>
       </div>
     </div>
   </div>
@@ -128,8 +128,8 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">International Conference on Natural Language Processing and Chinese Computing (NLPCC 2026)</span>
-        <span class="pub-tag pub-tag--highlight">(Oral)</span>
+        <span class="pub-tag">NLPCC 2026</span>
+        <span class="pub-tag pub-tag--highlight">Oral</span>
       </div>
     </div>
   </div>
@@ -141,9 +141,9 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">Annual Meeting of the Association for Computational Linguistics (ACL 2026)</span>
-        <span class="pub-tag pub-tag--highlight">(Oral)</span>
-        <span class="pub-tag pub-tag--highlight">(Award Candidate)</span>
+        <span class="pub-tag">ACL 2026</span>
+        <span class="pub-tag pub-tag--highlight">Oral</span>
+        <span class="pub-tag pub-tag--highlight">Award Candidate</span>
       </div>
     </div>
   </div>
@@ -155,8 +155,8 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2026)</span>
-        <span class="pub-tag pub-tag--highlight">(Oral)</span>
+        <span class="pub-tag">ICASSP 2026</span>
+        <span class="pub-tag pub-tag--highlight">Oral</span>
       </div>
     </div>
   </div>
@@ -168,8 +168,8 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">European Association of Urology Congress (EAU 2026)</span>
-        <span class="pub-tag pub-tag--highlight">(Oral)</span>
+        <span class="pub-tag">EAU 2026</span>
+        <span class="pub-tag pub-tag--highlight">Oral</span>
       </div>
     </div>
   </div>
@@ -181,7 +181,7 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">ACM International Conference on Multimedia (ACM MM 2026)</span>
+        <span class="pub-tag">ACM MM 2026</span>
       </div>
     </div>
   </div>
@@ -193,9 +193,10 @@ I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), joint
     </div>
     <div class="pub-card__side">
       <div class="pub-card__tags">
-        <span class="pub-tag">International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI 2026)</span>
-        <span class="pub-tag pub-tag--highlight">(Early Accept)</span>
-        <span class="pub-tag pub-tag--highlight">(MICCAI Best Paper and Young Scientist Award Candidate)</span>
+        <span class="pub-tag">MICCAI 2026</span>
+        <span class="pub-tag pub-tag--highlight">Early Accept</span>
+        <span class="pub-tag pub-tag--highlight">MICCAI Best Paper and Young Scientist Award Candidate</span>
+        <span class="pub-tag pub-tag--highlight">Shortlist (Top 0.5%)</span>
       </div>
     </div>
   </div>
