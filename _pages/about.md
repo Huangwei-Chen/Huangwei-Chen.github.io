@@ -37,7 +37,7 @@ redirect_from:
   }
 </style>
 
-I am a doctoral student at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in Computer Science and Technology from [Hangzhou Dianzi University](https://www.hdu.edu.cn/) in 2026, where I was advised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://github.com/hdu-3dv/hdu-3dv.github.io). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
+I am a Ph.D. student in [EAGLE-Lab](https://eagle.zju.edu.cn/) at [Zhejiang University](https://www.zju.edu.cn/), jointly supervised by [Jianfeng Zhang (张建锋)](https://baike.baidu.com/item/%E5%BC%A0%E5%BB%BA%E9%94%8B/16602152) and [Prof. Haishuai Wang (王海帅)](https://person.zju.edu.cn/haishuaiwang). I received my B.Eng. degree in Computer Science and Technology from [Hangzhou Dianzi University](https://www.hdu.edu.cn/) in 2026, where I was supervised by [Prof. Feiwei Qin (秦飞巍)](https://faculty.hdu.edu.cn/jsjxy/qfw/main.htm) from [HDU-3DV-Lab](https://github.com/hdu-3dv/hdu-3dv.github.io). My academic interests lie in **Medical AI**, **MLLMs** and **AI Agent**.
 
 ## News {#news}
 <div class="news-feed">
